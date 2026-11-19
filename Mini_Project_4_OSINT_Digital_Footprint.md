@@ -1,6 +1,6 @@
 # MINI PROJECT 4: OSINT & DIGITAL FOOTPRINT ASSESSMENT
 
-**Course:** Cyber Security / Network Security Lab (PBL)  
+**Course:** Cyber Security / Network Security Lab  
 **Academic Year:** 2026–2027  
 **Assessment Type:** Passive Reconnaissance & Digital Exposure Audit  
 **Target Organization (Simulated / Authorized Scope):** Novatech Financial Solutions (`novatech-fin.internal` / Public Sandbox `novatech-fin.org`)  

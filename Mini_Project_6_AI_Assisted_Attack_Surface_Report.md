@@ -1,6 +1,6 @@
 # MINI PROJECT 6: AI-ASSISTED ATTACK SURFACE REPORT
 
-**Course:** Cyber Security / Network Security Lab (PBL)  
+**Course:** Cyber Security / Network Security Lab  
 **Academic Year:** 2026–2027  
 **Assessment Type:** AI-Augmented Attack Surface Management (ASM) & Threat Synthesis  
 **Input Data Sources:** OSINT Assessment Findings (Mini Project 4) + Active Network Discovery Logs (Mini Project 5)  

@@ -1,6 +1,6 @@
 # Cyber Security Mini Projects Portfolio
 
-This repository contains the comprehensive reports and technical documentation for three Project-Based Learning (PBL) mini projects in Cybersecurity and Attack Surface Management:
+This repository contains the comprehensive reports and technical documentation for three cybersecurity mini projects in Attack Surface Management:
 
 - **Mini Project 4:** OSINT & Digital Footprint Assessment
 - **Mini Project 5:** Network Discovery & Asset Inventory

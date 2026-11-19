@@ -1,6 +1,6 @@
 # MINI PROJECT 5: NETWORK DISCOVERY & ASSET INVENTORY
 
-**Course:** Cyber Security / Network Security Lab (PBL)  
+**Course:** Cyber Security / Network Security Lab  
 **Academic Year:** 2026–2027  
 **Assessment Type:** Active Network Scanning, Service Fingerprinting & Asset Inventory  
 **Target Environment:** Isolated Virtual Laboratory Subnet (`192.168.56.0/24`)  
